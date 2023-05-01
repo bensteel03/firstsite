@@ -12,7 +12,7 @@
 </head>
 
 
-<img src="Web Logo.png" alt="Logo" style="width:550px;height:125.5px;">
+<img src="Web Logo.png" alt="Logo" style="width:275px;height:62.5px;">
 
 # About Me
 
