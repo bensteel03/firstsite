@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <title>My Portfolio</title>
+  <title>Ben Steel Sound</title>
   <style>
     body {
       font-family: Helvetica, Arial, sans-serif;
