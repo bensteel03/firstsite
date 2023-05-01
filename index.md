@@ -12,27 +12,34 @@
 </head>
 
 
-<img src="Web Logo.png" alt="Logo" style="width:1100px;height:250px;">
+<img src="Web Logo.png" alt="Logo" style="width:550px;height:125.5px;">
 
 # About Me
 
-Hi! My name is Ben Steel and I'm a sound engineer and theatre technican based in the south of the UK. 
+Hi! My name is Ben Steel and I'm a sound engineer and theatre technican based in the south of the UK.
+Etc
+Etc
+
+
 
 ## Skills
 
-- Java
-- Python
-- JavaScript
-- HTML/CSS
+- Sound
+- Full UK Driving License
 
-## Projects
+## Previous Work
 
-- [Project 1](https://github.com/yourusername/project1): A web app for managing to-do lists.
-- [Project 2](https://github.com/yourusername/project2): A machine learning algorithm for predicting stock prices.
+- CFT
+- TRB
+- ETC
 
 ## Contact
 
-You can reach me by email at jane.doe@example.com.
+E: ben.steel03@gmail.com
+M: 07484 181675
+W: bensteelsound.co.uk
+
+I look forward to hearing from you!
 
 ## CV Download
 
